@@ -1,5 +1,7 @@
 # Workout-Tracker
-using MERN STACK 
+Simple workout tracker using MERN STACK 
+
+next to do: Add Authentication (on progress)
 
 
 #How to use
